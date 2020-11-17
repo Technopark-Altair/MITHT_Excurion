@@ -61,3 +61,5 @@ crashlytics-build.properties
 # Photos from project
 [Aa]ssets/MTU
 [Aa]ssets/MTU2
+
+server/
